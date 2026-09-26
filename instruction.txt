@@ -1,0 +1,1 @@
+after pulling this repo , create the folder named "datasets" . Inside this folder place ur BraTs2024 dataset 
